@@ -1,0 +1,22 @@
+.nav-logo {
+    float: left;
+    width: 250px;
+    height: 30px;
+    overflow: hidden;
+    text-indent: -9999em;
+    margin-top: 3px;
+    background: url('../img/geodash/geodashlogo.png') no-repeat scroll 0% 0% transparent;
+    margin-bottom: 7px;
+}
+
+footer.footer{
+    background-color: #0071BC;
+}
+
+.navbar .navbar-inner {
+    background-color: #0071BC;
+}
+
+.hero-unit .btn{
+   background-color: #29ABE2;
+}
